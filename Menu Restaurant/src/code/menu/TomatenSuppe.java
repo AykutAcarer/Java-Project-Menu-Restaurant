@@ -1,5 +1,9 @@
 package code.menu;
-
+/**
+ * 
+ * @author Aykut Acarer
+ *
+ */
 public class TomatenSuppe extends Suppe {
 
 	@Override

@@ -1,5 +1,9 @@
 package code.menu;
-
+/**
+ * 
+ * @author Aykut Acarer
+ *
+ */
 import java.util.Scanner;
 
 public class SpeisePlan {
